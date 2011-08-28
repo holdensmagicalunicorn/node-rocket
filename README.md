@@ -126,7 +126,7 @@ project is initally created with the following files/dirs in `./client/static/`:
 
 ## Controllers
 
-By using a modified version of the powerfull [express-resource](https://github.com/visionmedia/express-resource "Express Resource - GitHub") plugin, **Rocket** provides
+By using a modified version of the powerful  [express-resource](https://github.com/visionmedia/express-resource "Express Resource - GitHub") plugin, **Rocket** provides
 you with a robust way of automatically mapping your _controllers_ to your _routes_.
 
 Each time you launch your application, **Rocket** takes all the `./controllers/[controller_name]_controller.js`
